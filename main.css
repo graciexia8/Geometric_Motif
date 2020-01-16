@@ -4,9 +4,16 @@
 }
 
 h1{
-    font-family: 'Gelasio', serif;
+    font-family: 'Fira code', serif;
     letter-spacing: 5px;
     font-weight: 600;
-    padding: 50px;
+    font-size: 14px;
+    text-decoration: underline;
+    padding: 5px;
     color: #2a237d;
 }
+
+.container {
+    display: flex;
+    justify-content: space-between;
+  }

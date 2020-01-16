@@ -1,13 +1,18 @@
 const CRYSTAL_SIZE = 150;
-const padding = 20;
-const canvasPadding = 50;
-const row = 4;
-const col = 4;
+const padding = 16;
+const canvasPadding = 19;
+
 const SIZE = 6;
 const stepOut = 8;
 const thinStroke = 1;
 const thickStroke = 3;
 let PALETTE = [];
+
+var w = window.innerWidth;
+var h = window.innerHeight;
+
+const row = Math.floor(w/CRYSTAL_SIZE)-1;
+const col = Math.floor(h/CRYSTAL_SIZE);
 
 
 function setup() {
@@ -62,7 +67,7 @@ function simpleLines (){
     pop();
 }
 
-function mousePressed() {
+function mouseClicked() {
     clear();
     redraw();
   }

@@ -89,7 +89,7 @@ class Lines extends Layer {
 
             for(let i = 0; i < this.numRatio; i++){
                 rotate(360/this.numRatio);
-                line(this.start * this.step,0,this.stop * this.step,0);
+                line(this.start * this.step, this.stop * this.step ,this.stop * this.step,this.start * this.step);
             }
         pop();
     }
