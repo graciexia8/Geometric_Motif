@@ -9,6 +9,6 @@ https://github.com/zenozeng/p5.js-svg
 https://github.com/matthewepler/Generative-Design-Systems-with-P5js
 https://p5js.org/
 
-![](demo.gif)
+![](demo2.gif)
 
 TO View Project, download repository and open index.html
