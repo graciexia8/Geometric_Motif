@@ -1,0 +1,12 @@
+.{
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: 'Gelasio', serif;
+    letter-spacing: 5px;
+    font-weight: 600;
+    padding: 50px;
+    color: #2a237d;
+}
