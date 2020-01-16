@@ -10,3 +10,5 @@ https://github.com/matthewepler/Generative-Design-Systems-with-P5js
 https://p5js.org/
 
 ![](demo.gif)
+
+TO View Project, download repository and open index.html
