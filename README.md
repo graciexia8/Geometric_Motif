@@ -7,6 +7,7 @@ Small Project creating gemometric motifs using p5.js functionalities. Each motif
 Made using resources taught by Matthew Epler.
 
 Resources:
+
 https://github.com/zenozeng/p5.js-svg
 
 https://github.com/matthewepler/Generative-Design-Systems-with-P5js
