@@ -1,6 +1,6 @@
-# geometricMotif
+# Geometric Motif
 
-View Final Outcome [here](https://graciexia8.github.io/geometricMotif/)
+View Final Outcome [here](https://graciexia8.github.io/Geometric_Motif/)
 
 Small Project creating gemometric motifs using p5.js functionalities. Each motif has randomly generated shapes rotated and translated accross x and y axis to create tesselation. Project time: 15 hours. 
 
